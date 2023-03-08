@@ -32,3 +32,18 @@ int Reshenie(string[] a, int n)
     }
     return k;
 }
+void Rewrite(string[] a, string[] b)
+{
+    for (int i = 0; i < b.Length; i++) b[i] = a[i];
+}
+
+Console.WriteLine("Начальный массив: ");
+Printmassiv(A);
+k = Reshenie(A, N);
+string[] B = new string[k];
+Rewrite(A, B);
+Console.WriteLine("Конечный массив: ");
+if (k != 0)
+    Printmassiv(B);
+else
+    Console.WriteLine("Массив не содержит элементов, длина которых меньше либо равна 3 символа");
