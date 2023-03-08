@@ -19,3 +19,16 @@ void Printmassiv(string[] a)
         Console.WriteLine($"A[{i}] = {a[i]}");
     }
 }
+int k = 0;
+int Reshenie(string[] a, int n)
+{
+    for (int i = 0; i < n; i++)
+    {
+        if (a[i].Length <= 3)
+        {
+            a[k] = a[i];
+            k++;
+        }
+    }
+    return k;
+}
