@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\fleshka 31.12.2022\\Murat\\Программирование\\C#\\GB_program\\GB_Lessons\\HW_9\\Lesson_64\\Lesson_4.csproj",
+      "projectUniqueName": "I:\\fleshka 31.12.2022\\Murat\\Программирование\\C#\\GB_program\\GB_Lessons\\Itog\\Itog\\Lesson_4.csproj",
       "projectName": "Lesson_4",
-      "projectPath": "I:\\fleshka 31.12.2022\\Murat\\Программирование\\C#\\GB_program\\GB_Lessons\\HW_9\\Lesson_64\\Lesson_4.csproj",
+      "projectPath": "I:\\fleshka 31.12.2022\\Murat\\Программирование\\C#\\GB_program\\GB_Lessons\\Itog\\Itog\\Lesson_4.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "I:\\fleshka 31.12.2022\\Murat\\Программирование\\C#\\GB_program\\GB_Lessons\\HW_9\\Lesson_64\\obj\\",
+      "outputPath": "I:\\fleshka 31.12.2022\\Murat\\Программирование\\C#\\GB_program\\GB_Lessons\\Itog\\Itog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
